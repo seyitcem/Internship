@@ -1,0 +1,11 @@
+Model Information:
+* title:	Orc Warrior
+* source:	https://sketchfab.com/3d-models/orc-warrior-21eaa407bf164cdea21135a1d1b2b8f3
+* author:	Callan McEntee (https://sketchfab.com/cmcentee72)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Orc Warrior" (https://sketchfab.com/3d-models/orc-warrior-21eaa407bf164cdea21135a1d1b2b8f3) by Callan McEntee (https://sketchfab.com/cmcentee72) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
